@@ -7,7 +7,7 @@ J'ai mis les sources contenus dans la solution et le fichier zip avec la version
 
 Je mettrais à jour régulièrement cette application en ajoutant des modules et/ou des fonctionnalités puisque je l'utilise aussi pour mes besoins personnels et professionnels.
 
-Si vous avez des questions, ajoutez moi sur linkedin et n'hésitez pas à m'envoyer vos questions. https:// 
+Si vous avez des questions, ajoutez moi sur [Linkedin](https://www.linkedin.com/in/dominiquedelaire/) et n'hésitez pas à m'envoyer vos questions ou support. Merci ! Dominique
 
 **Voici la liste des fonctionnalités dans la version de base v1.0.0.20 :**
 
@@ -36,6 +36,7 @@ Si vous avez des questions, ajoutez moi sur linkedin et n'hésitez pas à m'envo
   - Gestion des rdv
   - Suivi alimentaire et gestion des menus
   - Suivi des habitudes de vie
+  - Intégration des tâches et activités dans un tableau de bord "suivi quotidien" avec les tâches ouvertes et les tâches urgentes.
 
 - **Module Constantes physiques et mentales :**
   - Permet de suivre pour une date donnée les constantes physiques et mentales liées à une entité (par exemple vos enfants ou pour vous même)
@@ -47,4 +48,17 @@ Si vous avez des questions, ajoutez moi sur linkedin et n'hésitez pas à m'envo
   - Suivi quotidien de l'humeur
   - Suivi des émotions
   - Suivi du sommeil
+
+- **Module Suivi des habitudes de vie**
+  - Ajout d'habitudes de vie personnalisée et illimitée par priorité de la journée en lien avec une entité
+  - Suivi par activité et permet de dire si une habitude de vie a été réalisée ou pas pour la journée pour une entité donnée
+  - Statisques de suivi et graphique intégré dans le tableau de bord de "Suivi quotidien" pour l'utilisateur courant
+ 
+- **Module Suivi et Menu alimentaire**
+  - Ajout d'aliments spécifiques et personnels
+  - Gestion des périodes de la journée pour ajouter ses aliments
+  - Suivi des menus quotidiens pour une entité donnée
+  - Calcul quotidien par entité des calories, protéines, glucides, sucres, fibres, lipides, gras trans, saturés, cholesterol, sodium, calcium, fer
+  - Intégration d'un graphique sur les aliments consommés avec les calories et autres informations dans le tableau de bord "suivi quotidien" pour l'utilisateur courant.
+  
 
