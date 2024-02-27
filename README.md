@@ -7,6 +7,8 @@ J'ai mis les sources contenus dans la solution et le fichier zip avec la version
 
 Je mettrais à jour régulièrement cette application en ajoutant des modules et/ou des fonctionnalités puisque je l'utilise aussi pour mes besoins personnels et professionnels.
 
+Si vous avez des questions, ajoutez moi sur linkedin et n'hésitez pas à m'envoyer vos questions. https:// 
+
 **Voici la liste des fonctionnalités dans la version de base v1.0.0.20 :**
 
 - **Module Entités :**
