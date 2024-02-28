@@ -36,6 +36,7 @@ Si vous avez des questions, ajoutez moi sur [Linkedin](https://www.linkedin.com/
 - **Module Activités et Tâches :**
   - Permet de gérer et suivre ses activités et tâches de différentes natures en lien avec une entité
   - Date d'échéance et priorité
+  - Vue liste, Vue Kanban, Vue en mode Calendrier Mensuel, Semaine ou quotidien
   - Gestion des tâches
   - Gestion des rdv
   - Suivi alimentaire et gestion des menus
@@ -43,6 +44,9 @@ Si vous avez des questions, ajoutez moi sur [Linkedin](https://www.linkedin.com/
   - Intégration des tâches et activités dans un tableau de bord "suivi quotidien" avec les tâches ouvertes et les tâches urgentes.
 
 ![image](https://github.com/nuage365/mylife365/assets/102873102/358aa21b-d713-4c7a-aca2-61d9765c316d)
+![image](https://github.com/nuage365/mylife365/assets/102873102/24c48ba9-e057-4372-b37f-06637d5567a1)
+![image](https://github.com/nuage365/mylife365/assets/102873102/6ba351d0-6c59-4b46-9bfa-b681efdbf4ba)
+
 
 - **Module Constantes physiques et mentales :**
   - Permet de suivre pour une date donnée les constantes physiques et mentales liées à une entité (par exemple vos enfants ou pour vous même)
