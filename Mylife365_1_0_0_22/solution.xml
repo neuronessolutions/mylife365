@@ -1,11 +1,11 @@
-<ImportExportXml version="9.2.24021.156" SolutionPackageVersion="9.2" languagecode="1036" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<ImportExportXml version="9.2.24051.184" SolutionPackageVersion="9.2" languagecode="1036" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SolutionManifest>
     <UniqueName>Mylife365</UniqueName>
     <LocalizedNames>
       <LocalizedName description="Mylife365" languagecode="1036" />
     </LocalizedNames>
     <Descriptions />
-    <Version>1.0.0.21</Version>
+    <Version>1.0.0.22</Version>
     <Managed>0</Managed>
     <Publisher>
       <UniqueName>Nuage365</UniqueName>
@@ -112,16 +112,16 @@
         <Dependent type="80" schemaName="nuage365_Mylife365" displayName="Mylife365" />
       </MissingDependency>
       <MissingDependency>
-        <Required type="66" schemaName="MscrmControls.ActivityCalendarControl.ActivityCalendarControl" displayName="MscrmControls.ActivityCalendarControl.ActivityCalendarControl" solution="msdyn_UCICalendar (1.0.0.3420)" />
+        <Required type="66" schemaName="MscrmControls.ActivityCalendarControl.ActivityCalendarControl" displayName="MscrmControls.ActivityCalendarControl.ActivityCalendarControl" solution="msdyn_UCICalendar (1.0.0.3687)" />
         <Dependent type="26" schemaName="Vue Calendrier" displayName="Vue Calendrier" parentSchemaName="nuage365_activitesettaches" parentDisplayName="Activités et Tâches" id="{833a7029-0280-ee11-8179-0022483cbd89}" />
       </MissingDependency>
       <MissingDependency>
-        <Required type="66" schemaName="MscrmControls.Grid.GridControl" displayName="MscrmControls.Grid.GridControl" solution="BaseCustomControlsCore (9.0.2402.1017)" />
+        <Required type="66" schemaName="MscrmControls.Grid.GridControl" displayName="MscrmControls.Grid.GridControl" solution="BaseCustomControlsCore (9.0.2405.1017)" />
         <Dependent type="60" displayName="Activités et Tâches main form" parentDisplayName="Activités et Tâches" id="{6f19a338-62d3-ee11-904c-6045bd60a7a2}" />
       </MissingDependency>
       <MissingDependency>
-        <Required type="66" schemaName="MscrmControls.Sales.AppExtensions.KanBanView" displayName="MscrmControls.Sales.AppExtensions.KanBanView" solution="msdynce_SalesPatch202001 (9.0.24022.10004)">
-          <package>msdynce_SalesAnchor (9.0.24022.10004)</package>
+        <Required type="66" schemaName="MscrmControls.Sales.AppExtensions.KanBanView" displayName="MscrmControls.Sales.AppExtensions.KanBanView" solution="msdynce_SalesPatch202001 (9.0.24045.10004)">
+          <package>msdynce_SalesAnchor (9.0.24045.10004)</package>
         </Required>
         <Dependent type="26" schemaName="Tou(te)s les Activités et Tâches" displayName="Tou(te)s les Activités et Tâches" parentSchemaName="nuage365_activitesettaches" parentDisplayName="Activités et Tâches" id="{54219938-94d5-48f1-be2e-ff0a2f23aeff}" />
       </MissingDependency>
