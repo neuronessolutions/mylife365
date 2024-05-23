@@ -11,6 +11,8 @@ Je mettrais à jour régulièrement cette application en ajoutant des modules et
 
 Si vous avez des questions, ajoutez moi sur [Linkedin](https://www.linkedin.com/in/dominiquedelaire/) et n'hésitez pas à m'envoyer vos questions ou support. Merci ! Dominique
 
+**Version v1.0.0.22 corrige et supprime des références qui ne sont plus liées**   
+
 **Voici la liste des fonctionnalités dans la version de base v1.0.0.20 :**
 
 - **Module Entités :**
